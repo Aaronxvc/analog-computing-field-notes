@@ -5,7 +5,7 @@ It will evolve as my understanding deepens and as new questions emerge.
 
 ---
 
-## Phase 1 — Scaffold and Seed (Current)
+## Phase 1 — Scaffold and Seed
 - Create repo and core structure
 - Add README with metaphor first philosophy
 - Seed ROADMAP.md
