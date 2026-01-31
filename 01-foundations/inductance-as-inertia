@@ -1,0 +1,119 @@
+# Inductance as Inertia / Momentum of Current
+
+If capacitance is the ability to store **voltage**, inductance is the ability to store **current**.
+
+A simple metaphor:
+
+**Inductance is inertia — the tendency of movement to keep going.**
+
+Just like a heavy object resists changes in motion, an inductor resists changes in current.
+
+---
+
+## 1. Intuition-First Explanation
+
+Imagine pushing a heavy shopping cart:
+
+- Once it’s moving, it wants to **keep** moving.  
+- If you try to stop it suddenly, it pushes back.  
+- If you try to speed it up quickly, it lags behind.  
+
+That “momentum” is inductance.
+
+Other metaphors:
+
+- a freight train that can’t stop instantly  
+- a river with strong flow  
+- a spinning flywheel  
+- a crowd that keeps moving even after the door narrows  
+
+Inductance is **momentum in the flow**.
+
+---
+
+## 2. What’s Actually Happening in Matter
+
+When current flows through a coil, it creates a magnetic field.  
+That field stores energy.
+
+If you try to change the current:
+
+- the magnetic field pushes back  
+- it resists sudden changes  
+- it creates a voltage that opposes the change  
+
+The key idea:
+
+**Inductance = resistance to changes in current.**
+
+---
+
+## 3. How This Maps to Computation
+
+Inductors give analog systems:
+
+- momentum  
+- oscillation  
+- smoothing  
+- filtering  
+- time-dependent behavior  
+
+They are used to:
+
+- create resonant circuits  
+- shape frequency response  
+- build oscillators  
+- stabilize current  
+- form analog “mass” in differential equations  
+
+Inductance is the **inertia term** in analog math.
+
+---
+
+## 4. Relation to AI
+
+In biological and neuromorphic systems:
+
+- inductive-like behavior appears in ion channel dynamics  
+- currents have momentum  
+- signals don’t change instantly  
+- time constants shape firing patterns  
+
+In neuromorphic hardware:
+
+- inductive elements create temporal smoothing  
+- they implement differential equations directly  
+- they add “memory of motion” to the system  
+
+Inductance is the **momentum of analog computation**.
+
+---
+
+## 5. Limitations, Noise, and Tradeoffs
+
+Inductors are powerful but tricky:
+
+- they can cause oscillations  
+- they resist fast changes  
+- they generate voltage spikes  
+- they are physically large  
+- they interact with nearby magnetic fields  
+
+But these properties are exactly what make them useful.
+
+---
+
+## 6. -
+
+### ASCII Diagram 
+
+Current ---> [  Coil  ] ---> Current (delayed)
+↑
+Inertia
+
+More inductance → slower changes in current  
+Less inductance → faster changes in current
+
+Inductance is the **momentum** of analog systems — the part that keeps current moving and shapes how fast things can change.
+
+---
