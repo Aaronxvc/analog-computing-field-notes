@@ -94,7 +94,7 @@ Analog systems use resistance **intentionally** to shape dynamics.
 
 ---
 
-## 6. ASCII Diagram -
+## 6 -
 
 
 ### Ohm’s Law
